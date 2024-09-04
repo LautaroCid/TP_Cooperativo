@@ -1,0 +1,9 @@
+h2 {
+    background-color: aqua;
+    color: brown;
+}
+
+h3{
+    background-color: blueviolet;
+    color: beige;
+}
